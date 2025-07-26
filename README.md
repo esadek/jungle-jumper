@@ -1,5 +1,8 @@
 ![Jungle Jumper](assets/banner.png)
 
+[![itch.io](https://img.shields.io/badge/available_on-itch.io-fa5c5c)](https://emilsadek.itch.io/jungle-jumper)
+[![License](https://img.shields.io/github/license/esadek/jungle-jumper)](LICENSE)
+
 Jungle Jumper is a one-button, side-scrolling, endless runner game developed with Lua. Run and jump through the jungle while avoiding the spiked obstacles to reach a high score.
 
 ## Installation
